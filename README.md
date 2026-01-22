@@ -10,8 +10,8 @@
   </tr>
    <tr>
     <td style="text-align: center; white-space: nowrap;">Week 1</td>
-    <td style="text-align: center;">"Computer Architecture,Basic Elements of Machine Language, Hack Machine language, different sets of instructions, Hack programming.</td>
-    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDYRwcwqydjTqhZDY4S0VSSAS4jhlju1QRraJkSMH6o3VQ?e=r8KLGE"></td>
+    <td style="text-align: center;">Computer Architecture,Basic Elements of Machine Language, Hack Machine language, different sets of instructions, Hack programming.</td>
+    <td style="text-align: center;">Download PPT<a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDYRwcwqydjTqhZDY4S0VSSAS4jhlju1QRraJkSMH6o3VQ?e=r8KLGE"></td>
     <td style="text-align: center;">
       </td>
     </tr>
