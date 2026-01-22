@@ -16,6 +16,14 @@
       </td>
     </tr>
      </tr>
+  <tr>
+    <td style="text-align: center; white-space: nowrap;">Lab 1</td>
+    <td style="text-align: center;">Learning Basic Hack Instructions and Writing a Simple Hack Program.</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:w:/g/personal/vishnuss_am_amrita_edu/IQDWnieJ1J1fQ5AMREufsE3pAd4Vm-eYv6bCMbkfAeoIt54?e=zlIsLf">Download Labsheet</a>
+      </td>
+    <td><a href="https://amritauniv-my.sharepoint.com/:f:/g/personal/vishnuss_am_amrita_edu/IgB-HrogTKpsSaEcUAUkf5Z9ATdRBQQdyi-nyNEKl9nKb5s?e=i4q8J1">Upload Labsheet 1</a></td>
+    </tr>
+     </tr>
 </table>
   
 </table>
