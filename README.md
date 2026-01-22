@@ -1,6 +1,6 @@
 # Elements-Of-Computing-2
 ## Topics and Study Materials
-### Reference Text Download Link: <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/Ec6kyK1C-fBHizd4dtmvKPYB0oV2M1_LZl5yX-nKz6yWag?e=CCtFsy">Download</a>
+### Reference Text Download Link: <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/IQAAghOaHyeOSayzVprHp_wOAbRG9ahij7JehTEF22DSeU0?e=NcIePW">Download</a>
 <table border="1" width="100%">
   <tr>
     <th style="width: 30%; text-align: center; white-space: nowrap;">Session</th>
