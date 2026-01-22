@@ -17,7 +17,7 @@
     </tr>
      </tr>
   <tr>
-    <td style="text-align: center; white-space: nowrap;">Lab 1</td>
+    <td style="text-align: center; white-space: nowrap;">Lab Session 1</td>
     <td style="text-align: center;">Learning Basic Hack Instructions and Writing a Simple Hack Program.</td>
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:w:/g/personal/vishnuss_am_amrita_edu/IQDWnieJ1J1fQ5AMREufsE3pAd4Vm-eYv6bCMbkfAeoIt54?e=zlIsLf">Download Labsheet</a>
       </td>
