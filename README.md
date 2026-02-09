@@ -40,7 +40,7 @@
     </tr>
    <tr>
     <td style="text-align: center; white-space: nowrap;">Week 3</td>
-    <td style="text-align: center;">Hack Programming continued.</td>
+    <td style="text-align: center;">Hack Programming continued II.</td>
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQCfUoaygKh5Sr6oh6vBqQhLAb8t6H6sRwoBVEZr39sdhbY?e=LOVaUk">Download PPT</a><td>
     <td style="text-align: center;">
       </td>
