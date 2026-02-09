@@ -31,6 +31,20 @@
       </td>
     <td><a href="https://amritauniv-my.sharepoint.com/:f:/g/personal/vishnuss_am_amrita_edu/IgBj5ZMSBZvSRYPIc_-gQPMbAYXHrOOVZ06iTTTLr5o7QjA?e=dSIBnb">Upload Labsheet 2</a></td>
     </tr>
+  <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 2</td>
+    <td style="text-align: center;">Hack Programming continued.</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQASq2U2oPdaTZkR8X7t9qckAeT412T-cEE0ZUfBzAbY79I?e=8Qc0Y5">Download PPT</a><td>
+    <td style="text-align: center;">
+      </td>
+    </tr>
+   <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 3</td>
+    <td style="text-align: center;">Hack Programming continued.</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQCfUoaygKh5Sr6oh6vBqQhLAb8t6H6sRwoBVEZr39sdhbY?e=LOVaUk">Download PPT</a><td>
+    <td style="text-align: center;">
+      </td>
+    </tr>
      </tr>
 </table>
   
