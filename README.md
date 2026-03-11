@@ -46,6 +46,41 @@
       </td>
     </tr>
      </tr>
+  <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 4</td>
+    <td style="text-align: center;">Assembly Language and Assemblers</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQC8nh1zHYkxQrvbcgcV9kBqART7pYIWGqEk7ZwmYy7XO2g?e=eYbqUr">Download PPT</a><td>
+    <td style="text-align: center;">
+      </td>
+    </tr>
+     </tr>
+   <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 5</td>
+    <td style="text-align: center;">Hack Assembly Language-A translator perspective
+</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQBrwTvgTEOWTJw4m0YX8g3MAfpw-hGDhfFaAf4_77QOAcg?e=v7Xz0x">Download PPT</a><td>
+    <td style="text-align: center;">
+      </td>
+    </tr>
+     </tr>
+     <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 6</td>
+    <td style="text-align: center;">Virtual Machine-I
+</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQA6qc_0iGZpQbSYcFPz2A5NAT57eIT50BIH04K1AkXTVLQ?e=IpBFkc">Download PPT</a><td>
+    <td style="text-align: center;">
+      </td>
+    </tr>
+     </tr>
+     <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 7</td>
+    <td style="text-align: center;">VM-Absrtaction,Implementation
+</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAzkrdgiuyST4I_u485hnxVAcQrlVnaPe-g7qIevzsXj8E?e=DW65qz">Download PPT</a><td>
+    <td style="text-align: center;">
+      </td>
+    </tr>
+     </tr>
 </table>
   
 </table>
