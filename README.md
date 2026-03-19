@@ -74,13 +74,25 @@
      </tr>
      <tr>
     <td style="text-align: center; white-space: nowrap;">Week 7</td>
-    <td style="text-align: center;">VM-Absrtaction,Implementation
+    <td style="text-align: center;">VM-Abstraction,Implementation
 </td>
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAzkrdgiuyST4I_u485hnxVAcQrlVnaPe-g7qIevzsXj8E?e=DW65qz">Download PPT</a><td>
     <td style="text-align: center;">
       </td>
     </tr>
      </tr>
+     <tr>
+    <td style="text-align: center; white-space: nowrap;">week 8</td>
+    <td style="text-align: center;">Functions in VM, Solved Questions & Excercise on Conversion to VM code
+</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQD6MPAFz1ehTajCn5VEcX3aAXOoJcjwvFZE1HxlHWvAVh8?e=aLPNtM">Download PPT</a><td>
+    <td style="text-align: center;">
+      </td>
+    </tr>
+     </tr>
+
+
+  
 </table>
   
 </table>
