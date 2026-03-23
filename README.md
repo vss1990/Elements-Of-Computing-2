@@ -85,7 +85,7 @@
     </tr>
      </tr>
      <tr>
-    <td style="text-align: center; white-space: nowrap;">week 8</td>
+    <td style="text-align: center; white-space: nowrap;">Week 8</td>
     <td style="text-align: center;">Functions in VM, Solved Questions & Excercise on Conversion to VM code
 </td>
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQD6MPAFz1ehTajCn5VEcX3aAXOoJcjwvFZE1HxlHWvAVh8?e=aLPNtM">Download PPT</a><td>
