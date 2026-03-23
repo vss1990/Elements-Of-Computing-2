@@ -1,6 +1,9 @@
 # Elements-Of-Computing-2
 ## Topics and Study Materials
 ### Reference Text Download Link: <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/IQAAghOaHyeOSayzVprHp_wOAbRG9ahij7JehTEF22DSeU0?e=NcIePW">Download</a>
+### Nand2Tetris Video Link Part 1 <a href="https://youtu.be/UzezuWXRRCw?si=5VRxcCUG5dhfQm9F"</a>
+### Nand2Tetris Video Link Part 2 <a href="https://youtu.be/UzezuWXRRCw?si=5VRxcCUG5dhfQm9F](https://youtu.be/zldqSN7YfY8?si=lxcHzWmZI9DxNQzd"</a>
+
 <table border="1" width="100%">
   <tr>
     <th style="width: 30%; text-align: center; white-space: nowrap;">Session</th>
