@@ -102,6 +102,27 @@
       </td>
     </tr>
      </tr>
+ <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 10</td>
+    <td style="text-align: center;">Jack Grammar,Jack Analyzer
+</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDQEW-CqSpVRa83LpNGASZBAevBe4tPd4vz7WRBsJ3tA4M?e=TcAlQX">Download PPT</a><td>
+    <td style="text-align: center;">
+</tr>
+     </tr>      </td>
+      <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 11</td>
+    <td style="text-align: center;">Jack Analyzer Implementation
+</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDQEW-CqSpVRa83LpNGASZBAevBe4tPd4vz7WRBsJ3tA4M?e=0YLqsY">Download PPT</a><td>
+    <td style="text-align: center;">
+</tr>
+     </tr>      </td>
+    
+
+
+
+
 
 
   
