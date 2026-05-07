@@ -117,6 +117,20 @@
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDQEW-CqSpVRa83LpNGASZBAevBe4tPd4vz7WRBsJ3tA4M?e=0YLqsY">Download PPT</a><td>
     <td style="text-align: center;">
 </tr>
+    <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 12</td>
+    <td style="text-align: center;">Compiler II
+</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQCcSBdoWELsTKjR8IBOptASAasIwCPH3aBkkRoF4ZDodWk?e=1O96m0">Download PPT</a><td>
+    <td style="text-align: center;">
+</tr>
+      <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 13</td>
+    <td style="text-align: center;">Operating Systems
+</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQBvyESu0WN9TajxqaFrrdRVAUFH8SSxFCu_5lEc3nQfbR4?e=YBNZoR">Download PPT</a><td>
+    <td style="text-align: center;">
+</tr>
      </tr>      </td>
     
 
